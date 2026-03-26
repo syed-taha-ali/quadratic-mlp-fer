@@ -1,0 +1,19 @@
+# Internal documents — excluded from public repo
+docs/github_upload_plan.md
+
+# Model checkpoints (large binary files)
+checkpoints/
+
+# Results (generated outputs)
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local Claude settings
+.claude/
